@@ -1,2 +1,0 @@
-# shootert-test
-test
